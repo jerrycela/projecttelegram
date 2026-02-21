@@ -33,3 +33,7 @@ Thumbs.db
 
 # PM2
 .pm2/
+__pycache__/
+.venv/
+*.pyc
+.claude/skills/notebooklm/data/
